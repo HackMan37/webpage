@@ -1,0 +1,51 @@
+#navegacion ul{
+   list-style-type: none;
+   text-align: center;
+} 
+
+#navegacion li{
+   display: inline;
+   text-align: center;
+   margin: 0 10px 0 0;
+} 
+
+#navegacion li a {
+   padding: 2px 7px 2px 7px;
+   color: #0b0a0a;
+   background-color: #3ee5e7;
+   border: 1px solid #cc1a1a;
+   text-decoration: none;
+} 
+
+#navegacion li a:hover{
+   background-color: #0b0a0a;
+   color: #ffffff;
+} 
+
+#formulario{
+   list-style-type: none;
+   text-align: center;
+   font-size: 22px;
+   max-width: 400px;
+   max-height: 440px;
+   background-color: white;
+   margin: auto;
+} 
+
+#datos{
+   list-style-type: none;
+   text-align: center;
+   font-size: 22px;
+} 
+
+body {
+	background: url(/img/fondo.jpg) no-repeat;
+	background-size: cover;
+}
+
+#noticias{
+   list-style-type: none;
+   text-align: center;
+   font-size: 22px;
+} 
+
